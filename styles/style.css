@@ -1,0 +1,35 @@
+.container {
+    width: 400px;
+    display: flex;
+    align-items: start;
+    gap: 10px;
+}
+
+.container-archive {
+    width: 400px;
+
+}
+
+.card {
+
+    display: flex;
+    align-items: start;
+    gap: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 5px;
+
+}
+
+.data {
+    font-style: italic;
+    background-color: blanchedalmond;
+    min-width: 100px;
+    font-weight: bold;
+}
+
+.note {
+    font-style: italic;
+    word-break: break-all;
+}
